@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Vásquez</h1>
 <h3 align="center">A beginner in the programming world</h3>
 
-- 🎓 I am studying **computer engineering** at UPIICSA (IPN), at the moment I am in my sixth semester.
+- 🎓 I'm studying **computer engineering** at UPIICSA (IPN), at the moment I'm in my sixth semester.
 
-- 👀 I am interested in learning the new technologies that have been appearing in the last few years. Right now, I'm most interested in artificial intelligence. 
+- 👀 I'm interested in learning the new technologies that have been appearing in the last few years. Right now, I'm most interested in Artificial Intelligence 🤖. 
 
 - 📫 How to reach me **davidvasquez051001@gmail.com**
 
