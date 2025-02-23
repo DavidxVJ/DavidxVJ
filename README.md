@@ -5,7 +5,7 @@
 
 - 👀 I'm interested in learning the new technologies that have been appearing in the last few years. Right now, I'm most interested in Artificial Intelligence 🤖. 
 
-- 📫 How to reach me **davidvasquez051001@gmail.com**
+- 📫 How to reach me **d.vasquezj01@gmail.com**
 
 
 <p align="left">
