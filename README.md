@@ -3,7 +3,7 @@
 
 - 🎓 I'm studying **computer engineering** at UPIICSA (IPN).
 
-- 👀 I'm interested in learning the new technologies that have been appearing in the last few years. Right now, I'm most interested in Artificial Intelligence 🤖. 
+- 👀 I'm interested in learning the new technologies that have been appearing in the last few years. Right now, I'm most interested in Web Programming (Frontend and Backend).
 
 - 📫 How to reach me **d.vasquezj01@gmail.com**
 
