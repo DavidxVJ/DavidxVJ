@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm David Vásquez</h1>
+<h1 align="center">Hola 👋, soy David Vásquez</h1>
 
 ---
-- 🎓 Ingeniero en Informática.
+- 🎓 Ingeniero en Informática con una sólida base en programación orientada a objetos, estructuras de datos y resolución estructurada de problemas.
 - 💼 Buscando activamente oportunidades profesionales.  
 - ☕ Lenguaje principal: **Java**
 - 📫 Cómo ponerse en contacto conmigo: **d.vasquezj01@gmail.com**
