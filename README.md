@@ -2,7 +2,7 @@
 
 ---
 
-- 🎓 Ingeniero en Informática con una sólida base en programación orientada a objetos, estructuras de datos y resolución estructurada de problemas.
+- 🎓 Ingeniero en Informática con una sólida base en POO, estructuras de datos y resolución estructurada de problemas.
 - 💼 Buscando activamente oportunidades profesionales.  
 - ☕ Lenguaje de programación principal: **Java**
 - 📫 Cómo ponerse en contacto conmigo: **d.vasquezj01@gmail.com**
