@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Vásquez</h1>
+
 ---
 - 🎓 Ingeniero en Informática.
 - 💼 Buscando activamente oportunidades profesionales.  
 - ☕ Lenguaje principal: **Java**
 - 📫 Cómo ponerse en contacto conmigo: **d.vasquezj01@gmail.com**
-
+---
 
 <p align="left">
 </p>
